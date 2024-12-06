@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2024-12-06T17:16:58.447159",
+    "topic": "sensors/readings",
+    "payload": {
+      "test": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-06T17:17:13.835102",
+    "topic": "sensors/readings",
+    "payload": {
+      "test": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-06T17:17:18.309857",
+    "topic": "sensors/readings",
+    "payload": {
+      "test": 3
+    }
+  }
+]
